@@ -19,7 +19,7 @@ const TURMA_CONFIG = {
     endereco: "Co-necta Espaço de Coworking - Praça Chuí, 35 - Vila Ema, São José dos Campos - SP",
     enderecoDefinido: true,
     esgotada: false,
-    checkoutUrl: "",
+    checkoutUrl: "https://checkout.institutodespertamente.shop/VCCL1O8SD8V7",
   },
   "26set_tarde": {
     label: "26/09 - Tarde",
@@ -29,7 +29,7 @@ const TURMA_CONFIG = {
     endereco: "Co-necta Espaço de Coworking - Praça Chuí, 35 - Vila Ema, São José dos Campos - SP",
     enderecoDefinido: true,
     esgotada: false,
-    checkoutUrl: "",
+    checkoutUrl: "https://checkout.institutodespertamente.shop/VCCL1O8SD8V8",
   },
 };
 
